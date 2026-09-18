@@ -1,0 +1,7 @@
+PS C:\Users\aluno> cd .\Downloads\
+PS C:\Users\aluno\Downloads> cd .\Aula3udp\
+PS C:\Users\aluno\Downloads\Aula3udp> python .\ClienteUdp.py
+digite uma mensagem oi
+resposta do servidor:
+mensagem recebida pelo servidor UDP
+PS C:\Users\aluno\Downloads\Aula3udp>
