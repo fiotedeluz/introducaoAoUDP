@@ -1,0 +1,11 @@
+C:\Users\aluno>cd Downloads
+C:\Users\aluno\Downloads>cd Aula3udp
+C:\Users\aluno\Downloads\Aula3udp>python servidorUdp.py
+servidor UDP aguardando mensagens...
+
+C:\Users\aluno\Downloads\Aula3udp>python servidorUdp.py
+servidor UDP aguardando mensagens...
+cliente:  ('127.0.0.1', 64329)
+mensagem recebida: oi
+
+C:\Users\aluno\Downloads\Aula3udp>
