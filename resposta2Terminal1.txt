@@ -1,0 +1,10 @@
+PS C:\Users\aluno> cd .\Downloads\
+PS C:\Users\aluno\Downloads> cd .\Aula3udp\
+PS C:\Users\aluno\Downloads\Aula3udp> python .\servidorUdp2.py
+servidor UDP aguardando mensagens...
+cliente:  ('127.0.0.1', 59204)
+mensagem recebida: Hello world
+cliente:  ('127.0.0.1', 59695)
+mensagem recebida: nice
+cliente:  ('127.0.0.1', 54308)
+mensagem recebida: teste teste
